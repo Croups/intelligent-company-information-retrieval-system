@@ -2,6 +2,14 @@
 
 A FastAPI application that provides company information using a LangGraph-based agent workflow.
 
+## WORKFLOW :
+
+![graph_visualization](https://github.com/user-attachments/assets/1e7fb345-564d-44f3-a042-499a5e887075)
+
+## Example Langsmith :
+
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/7e0c03e6-1c4b-4e0e-92f6-1e26315a5d20" />
+
 ## Features
 
 - Query information about companies using natural language
