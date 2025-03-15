@@ -115,7 +115,7 @@ Response:
 ### Project Structure
 
 - `app.py`: FastAPI application
-- `graph_test_v2.py`: LangGraph workflow implementation
+- `graph.py`: LangGraph workflow implementation
 - `Dockerfile`: Container configuration
 - `requirements.txt`: Python dependencies
 
