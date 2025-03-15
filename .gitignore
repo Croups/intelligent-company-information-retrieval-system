@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+!.env.example
+
+# IDE specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# LangSmith tracing
+.langchain/
+
+# Docker build context
+.dockerignore
